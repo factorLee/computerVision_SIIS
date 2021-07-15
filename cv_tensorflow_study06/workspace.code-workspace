@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "flask_week10_1",
+			"path": "."
+		},
+		{
+			"name": "실습01",
+			"path": "../../Downloads/20210703_실습2/실습01"
+		},
+		{
+			"name": "templates",
+			"path": "../../Downloads/20210703_flask_실습02완/templates"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "templates"
+	}
+}
